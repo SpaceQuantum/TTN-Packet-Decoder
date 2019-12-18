@@ -14,7 +14,7 @@ Release 0.2 - Standardized decoded variable names,
 KNOWN ISSUES:
 
   Thermocouple does not go negative - update byte converter, 
-  Simplemode descriptions sometimes too long for TTN display
+  Simplemode descriptions sometimes too long for Chirpstack display
   
 For questions please contact:
 support.radiobridge.com

@@ -1,4 +1,4 @@
-function Decoder(bytes, port) {
+function Decode(port, bytes) {
   //   RADIO BRIDGE TTN PACKET DECODER v0.2
   // (c) 2019 RadioBridge USA by John Sheldon
 
@@ -13,13 +13,7 @@ function Decoder(bytes, port) {
   SIMPLEMODE = 1;
 
   var decoded = {};
- 
- 
- 
- 
- 
- 
- 
+  
  // UPLINKS
   if (!SIMPLEMODE) {
     decoded.PORT = port;

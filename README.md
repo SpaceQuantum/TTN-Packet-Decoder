@@ -1,5 +1,5 @@
 # Chirpstack-Packet-Decoder
-Radio Bridge Packet Protocol Decoder for use in TTN Payload Formats
+Radio Bridge Packet Protocol Decoder for use in Chirpstack Payload Formats
 
 CHANGE LOG
 
